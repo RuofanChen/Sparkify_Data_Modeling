@@ -13,7 +13,7 @@ python etl.py
 # Explanation of files
 1.test.ipynb  
 
-displays the first few rows of each table to let you check database.  
+displays the first few rows of each table to check database.  
 
 2.create_tables.py  
 
